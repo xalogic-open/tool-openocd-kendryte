@@ -1,0 +1,22 @@
+{
+  "name": "tool-openocd-kendryte",
+  "version": "1.203.1",
+  "description": "Open On-Chip Debugger branch with RISC-V Kendryte support",
+  "keywords": [
+    "tools",
+    "debugger",
+    "debug server",
+    "uploader",
+    "risc-v"
+  ],
+  "homepage": "http://openocd.org",
+  "license": "GPL-2.0-or-later",
+  "system": [
+    "linux_armv7l"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kendryte/openocd-kendryte"
+  }
+}
+
